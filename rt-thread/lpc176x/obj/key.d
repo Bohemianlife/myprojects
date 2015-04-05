@@ -1,0 +1,17 @@
+.\obj\key.o: drivers\key.c
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rthw.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\key.o: .\rtconfig.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\key.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\key.o: CMSIS\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cm3.h
+.\obj\key.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cmInstr.h
+.\obj\key.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cmFunc.h
+.\obj\key.o: CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\obj\key.o: drivers\key.h

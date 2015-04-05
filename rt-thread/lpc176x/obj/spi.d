@@ -1,0 +1,9 @@
+.\obj\spi.o: drivers\spi.c
+.\obj\spi.o: CMSIS\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\obj\spi.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cm3.h
+.\obj\spi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\spi.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cmInstr.h
+.\obj\spi.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cmFunc.h
+.\obj\spi.o: CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\obj\spi.o: drivers\inc\spi.h
+.\obj\spi.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h

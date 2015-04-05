@@ -1,0 +1,9 @@
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/libcpu/arm/common\showmem.c
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\showmem.o: .\rtconfig.h
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\showmem.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\showmem.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h

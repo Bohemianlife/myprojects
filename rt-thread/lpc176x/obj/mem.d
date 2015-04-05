@@ -1,0 +1,14 @@
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/src\mem.c
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rthw.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\mem.o: .\rtconfig.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\mem.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\mem.o: F:/211/github/RT-Thread/rt-thread/components/finsh/finsh.h
+.\obj\mem.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\ctype.h
+.\obj\mem.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\mem.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h

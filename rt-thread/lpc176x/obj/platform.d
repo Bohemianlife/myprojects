@@ -1,0 +1,10 @@
+.\obj\platform.o: applications\platform.c
+.\obj\platform.o: applications\platform.h
+.\obj\platform.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\platform.o: .\rtconfig.h
+.\obj\platform.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\platform.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\platform.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\platform.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\platform.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\platform.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h

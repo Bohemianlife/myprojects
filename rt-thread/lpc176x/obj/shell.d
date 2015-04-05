@@ -1,0 +1,15 @@
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/components/finsh\shell.c
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rthw.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\shell.o: .\rtconfig.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\shell.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/components/finsh\finsh.h
+.\obj\shell.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\ctype.h
+.\obj\shell.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\shell.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\shell.o: F:/211/github/RT-Thread/rt-thread/components/finsh\shell.h

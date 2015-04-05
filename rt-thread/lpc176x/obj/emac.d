@@ -1,0 +1,16 @@
+.\obj\emac.o: drivers\emac.c
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\emac.o: .\rtconfig.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\emac.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\emac.o: drivers\inc\emac.h
+.\obj\emac.o: CMSIS\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cm3.h
+.\obj\emac.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cmInstr.h
+.\obj\emac.o: F:/211/github/RT-Thread/rt-thread/components/CMSIS/Include/core_cmFunc.h
+.\obj\emac.o: CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h

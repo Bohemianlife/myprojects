@@ -1,0 +1,9 @@
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/src\device.c
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\device.o: .\rtconfig.h
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\device.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\device.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h

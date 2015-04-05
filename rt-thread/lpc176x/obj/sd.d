@@ -1,0 +1,9 @@
+.\obj\sd.o: drivers\sd.c
+.\obj\sd.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h
+.\obj\sd.o: .\rtconfig.h
+.\obj\sd.o: F:/211/github/RT-Thread/rt-thread/include/rtdebug.h
+.\obj\sd.o: F:/211/github/RT-Thread/rt-thread/include/rtdef.h
+.\obj\sd.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\obj\sd.o: F:/211/github/RT-Thread/rt-thread/include/rtservice.h
+.\obj\sd.o: F:/211/github/RT-Thread/rt-thread/include/rtm.h
+.\obj\sd.o: F:/211/github/RT-Thread/rt-thread/include/rtthread.h

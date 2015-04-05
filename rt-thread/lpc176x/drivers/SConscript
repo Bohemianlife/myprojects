@@ -1,0 +1,20 @@
+
+Import('RTT_ROOT')
+Import('rtconfig')
+from building import *
+
+cwd = GetCurrentDir()
+src = Glob('*.c')
+
+# remove no need file.
+if GetDepend('RT_USING_LWIP') == False:
+    SrcRemove(src, 'emac.c')
+if GetDepend('RT_USING_DFS') == False:
+    SrcRemove(src, 'sd.c')
+
+CPPPATH = [cwd+'/inc']
+CPPPATH += [RTT_ROOT + '/components/init']
+
+group = DefineGroup('Drivers', src, depend = [''], CPPPATH = CPPPATH)
+
+Return('group')
